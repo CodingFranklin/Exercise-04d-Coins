@@ -1,6 +1,12 @@
-# Exercise-04c-Enemies
+# Project04-Platformer
+
+# Project Name
+Context and date
+
+Description
 
 ## Implementation
+Which features you included.
 
 ## References
 
@@ -8,10 +14,6 @@ Character Controller adapted from Sebastion Lague's Unity 5 Character Controller
 https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
-Pixel Platformer tiles provided by Kenney.nl
-https://kenney.nl/assets/pixel-platformer
-
 ## Future Development
 
 ## Created by
-Nathan Mishler
