@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 # Project04-Platformer
 
 # Project Name
 Context and date
 
 Description
+=======
+# Exercise-04d-Coins
+>>>>>>> 8c5d14c4e9fd319b483a4f2b9f627f99efc0b181
 
 ## Implementation
 Which features you included.
@@ -16,4 +20,9 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
 
+<<<<<<< HEAD
 ## Created by
+=======
+## Created by
+Franklin Pu
+>>>>>>> 8c5d14c4e9fd319b483a4f2b9f627f99efc0b181
